@@ -1,0 +1,1 @@
+cmd = - hg38 MOTIFS/NT_vs_siV/homer/Down -size 200 -mask -seqlogo -p 16
