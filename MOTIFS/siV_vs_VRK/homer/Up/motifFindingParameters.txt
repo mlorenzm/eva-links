@@ -1,0 +1,1 @@
+cmd = - hg38 MOTIFS/siV_vs_VRK/homer/Up -size 200 -mask -seqlogo -p 16
